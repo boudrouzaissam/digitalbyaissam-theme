@@ -134,7 +134,7 @@
       "settings": {
         "title": "Featured Excel Templates",
         "heading_size": "h1",
-        "description": "Browse ready-to-use Excel templates and dashboards designed for small businesses.",
+        "description": "<p>Browse ready-to-use Excel templates and dashboards designed for small businesses.</p>",
         "show_description": true,
         "description_style": "body",
         "collection": "excel-templates",
@@ -161,7 +161,7 @@
       "settings": {
         "title": "Featured Mugs",
         "heading_size": "h1",
-        "description": "Explore creative mugs inspired by economics, coffee, data and smart work culture.",
+        "description": "<p>Explore creative mugs inspired by economics, coffee, data and smart work culture.</p>",
         "show_description": true,
         "description_style": "body",
         "collection": "mugs",
