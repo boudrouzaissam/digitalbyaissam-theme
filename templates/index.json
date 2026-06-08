@@ -35,7 +35,7 @@
         "buttons"
       ],
       "settings": {
-        "image_overlay_opacity": 20,
+        "image_overlay_opacity": 10,
         "image_height": "large",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
@@ -76,7 +76,7 @@
         "padding_bottom": 60
       }
     },
-    "multicolumn": {
+    "multicolumn_services": {
       "type": "multicolumn",
       "blocks": {
         "dashboard": {
@@ -236,7 +236,7 @@
   "order": [
     "image_banner",
     "rich_text_intro",
-    "multicolumn",
+    "multicolumn_services",
     "featured_collection",
     "how_it_works",
     "newsletter"
