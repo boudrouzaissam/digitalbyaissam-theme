@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "sections": {
     "image_banner": {
@@ -22,19 +13,19 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Excel dashboards, business templates and digital products designed for entrepreneurs, cafés, restaurants and small businesses.",
+            "text": "Excel templates and creative mugs designed for entrepreneurs, students, professionals and small business owners.",
             "text_style": "body"
           }
         },
         "buttons": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Explore Templates",
-            "button_link_1": "shopify://collections/all",
+            "button_label_1": "Shop Excel Templates",
+            "button_link_1": "/collections/excel-templates",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_label_2": "Shop Mugs",
+            "button_link_2": "/collections/mugs",
+            "button_style_secondary_2": true
           }
         }
       },
@@ -44,16 +35,14 @@
         "buttons"
       ],
       "settings": {
-        "image": "shopify://shop_images/banner.png",
         "image_overlay_opacity": 10,
         "image_height": "large",
-        "image_behavior": "none",
         "desktop_content_position": "middle-left",
-        "desktop_content_alignment": "left",
         "show_text_box": true,
+        "desktop_content_alignment": "left",
         "color_scheme": "scheme-1",
-        "stack_images_on_mobile": true,
         "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
         "show_text_below": true
       }
     },
@@ -63,14 +52,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Professional digital templates for small businesses",
+            "heading": "Excel templates and creative products for smart everyday work",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>DigitalByAissam creates practical Excel dashboards, business templates and digital tools to help entrepreneurs and small businesses organize their data, track performance and make smarter decisions.</p>"
+            "text": "<p>DigitalByAissam brings together practical Excel templates, business dashboards and creative mugs inspired by data, economics, coffee and smart humor.</p>"
           }
         }
       },
@@ -90,37 +79,37 @@
     "services": {
       "type": "multicolumn",
       "blocks": {
-        "dashboard": {
+        "excel": {
           "type": "column",
           "settings": {
-            "title": "Excel Dashboards",
-            "text": "<p>Track sales, expenses, profit, suppliers and business performance with clean and beginner-friendly dashboards.</p>",
-            "link_label": "View dashboards",
-            "link": "shopify://collections/all"
+            "title": "Excel Templates",
+            "text": "<p>Ready-to-use Excel dashboards and business templates to track sales, expenses, profit, customers and business performance.</p>",
+            "link_label": "Shop Excel Templates",
+            "link": "/collections/excel-templates"
           }
         },
-        "templates": {
+        "mugs": {
           "type": "column",
           "settings": {
-            "title": "Business Templates",
-            "text": "<p>Save time with ready-to-use templates for planning, organization, decision-making and daily business management.</p>",
-            "link_label": "Explore templates",
-            "link": "shopify://collections/all"
+            "title": "Mugs",
+            "text": "<p>Creative mugs inspired by economics, coffee, work, data, business and smart everyday humor.</p>",
+            "link_label": "Shop Mugs",
+            "link": "/collections/mugs"
           }
         },
         "custom": {
           "type": "column",
           "settings": {
-            "title": "Custom Dashboard Services",
-            "text": "<p>Need a personalized dashboard? Request a custom Excel or business analytics file for your project.</p>",
+            "title": "Custom Dashboard",
+            "text": "<p>Need a personalized Excel dashboard? Request a custom file adapted to your business, project or data needs.</p>",
             "link_label": "Contact me",
-            "link": "shopify://pages/contact"
+            "link": "/pages/contact"
           }
         }
       },
       "block_order": [
-        "dashboard",
-        "templates",
+        "excel",
+        "mugs",
         "custom"
       ],
       "settings": {
@@ -128,11 +117,112 @@
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "featured_excel": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Excel Templates",
+        "heading_size": "h1",
+        "description": "Browse ready-to-use Excel templates and dashboards designed for small businesses.",
+        "show_description": true,
+        "description_style": "body",
+        "collection": "excel-templates",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "featured_mugs": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Mugs",
+        "heading_size": "h1",
+        "description": "Explore creative mugs inspired by economics, coffee, data and smart work culture.",
+        "show_description": true,
+        "description_style": "body",
+        "collection": "mugs",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "how_it_works": {
+      "type": "multicolumn",
+      "blocks": {
+        "choose": {
+          "type": "column",
+          "settings": {
+            "title": "1. Choose your product",
+            "text": "<p>Select an Excel template, dashboard or creative mug that fits your needs or style.</p>"
+          }
+        },
+        "order": {
+          "type": "column",
+          "settings": {
+            "title": "2. Place your order",
+            "text": "<p>Complete your purchase securely through Shopify.</p>"
+          }
+        },
+        "use": {
+          "type": "column",
+          "settings": {
+            "title": "3. Start using or enjoy",
+            "text": "<p>Use your Excel file to organize your work, or enjoy your creative mug once delivered.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "choose",
+        "order",
+        "use"
+      ],
+      "settings": {
+        "title": "How it works",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -153,7 +243,7 @@
         "paragraph": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Subscribe to receive updates about new dashboards, templates and digital business tools.</p>"
+            "text": "<p>Subscribe to receive updates about new Excel templates, dashboards, mugs and creative products.</p>"
           }
         },
         "email_form": {
@@ -178,6 +268,9 @@
     "image_banner",
     "rich_text_intro",
     "services",
+    "featured_excel",
+    "featured_mugs",
+    "how_it_works",
     "newsletter"
   ]
 }
