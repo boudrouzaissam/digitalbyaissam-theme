@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "TEST GITHUB DIGITALBYAISSAM"
+            "heading": "TEST GITHUB DIGITALBYAISSAM",
             "heading_size": "h0"
           }
         },
@@ -22,10 +22,7 @@
           "settings": {
             "button_label_1": "Explore Templates",
             "button_link_1": "shopify://collections/all",
-            "button_style_secondary_1": false,
-            "button_label_2": "Request Custom Dashboard",
-            "button_link_2": "shopify://pages/contact",
-            "button_style_secondary_2": true
+            "button_style_secondary_1": false
           }
         }
       },
@@ -40,7 +37,7 @@
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
-        "color_scheme": "background-1",
+        "color_scheme": "scheme-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -70,13 +67,13 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "scheme-1",
         "full_width": true,
         "padding_top": 60,
         "padding_bottom": 60
       }
     },
-    "multicolumn_services": {
+    "services": {
       "type": "multicolumn",
       "blocks": {
         "dashboard": {
@@ -122,77 +119,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured digital products",
-        "heading_size": "h1",
-        "description": "Browse ready-to-use dashboards and templates designed for small businesses.",
-        "show_description": true,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
-    "how_it_works": {
-      "type": "multicolumn",
-      "blocks": {
-        "choose": {
-          "type": "column",
-          "settings": {
-            "title": "1. Choose your template",
-            "text": "<p>Select the digital product that fits your business or project.</p>"
-          }
-        },
-        "download": {
-          "type": "column",
-          "settings": {
-            "title": "2. Download instantly",
-            "text": "<p>Receive your digital file and open it in Excel or the compatible tool.</p>"
-          }
-        },
-        "use": {
-          "type": "column",
-          "settings": {
-            "title": "3. Start tracking",
-            "text": "<p>Add your data and use the dashboard to understand your performance.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "choose",
-        "download",
-        "use"
-      ],
-      "settings": {
-        "title": "How it works",
-        "heading_size": "h1",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "color_scheme": "background-1",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 60,
@@ -226,7 +153,7 @@
         "email_form"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "scheme-1",
         "full_width": true,
         "padding_top": 60,
         "padding_bottom": 60
@@ -236,9 +163,7 @@
   "order": [
     "image_banner",
     "rich_text_intro",
-    "multicolumn_services",
-    "featured_collection",
-    "how_it_works",
+    "services",
     "newsletter"
   ]
 }
