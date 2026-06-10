@@ -61,7 +61,7 @@
           "settings": {
             "heading": "Materials",
             "icon": "leather",
-            "content": "",
+            "content": "<p>Ceramic mug with a glossy finish, colored rim, handle, and inside.</p><p>Lead and BPA-free material.</p>",
             "page": ""
           }
         },
@@ -70,7 +70,7 @@
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "truck",
-            "content": "",
+            "content": "<p>Each mug is made on demand after your order is placed.</p><p>Processing and shipping times may vary depending on your location.</p><p>Because this is a made-to-order product, returns or exchanges are only accepted if the item arrives damaged, defective, or incorrect. Please contact us with photos if there is any issue with your order.</p>",
             "page": ""
           }
         },
@@ -79,7 +79,7 @@
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
-            "content": "",
+            "content": "<p>11 oz mug: 3.79″ / 9.6 cm in height and 3.25″ / 8.3 cm in diameter.</p><p>15 oz mug: 4.69″ / 11.9 cm in height and 3.35″ / 8.5 cm in diameter.</p>",
             "page": ""
           }
         },
@@ -88,7 +88,7 @@
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
-            "content": "",
+            "content": "<p>This mug is microwave and dishwasher safe.</p><p>For longer-lasting print quality, gentle hand washing is recommended.</p>",
             "page": ""
           }
         },
