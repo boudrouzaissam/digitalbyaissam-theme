@@ -61,7 +61,7 @@
           "settings": {
             "heading": "Materials",
             "icon": "leather",
-            "content": "<p>Digital Excel template file.</p><p>No physical product will be shipped. This is a downloadable digital product designed to help small businesses track sales, expenses, profitability, KPIs, and business performance.</p>",
+            "content": "<p><em><strong>Ceramic mug with a glossy finish, colored rim, handle, and inside.</strong></em></p><p><em><strong>Lead and BPA-free material</strong></em>.</p>",
             "page": ""
           }
         },
@@ -70,7 +70,7 @@
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "truck",
-            "content": "<p>This is a digital product. No physical shipping is required.</p><p>After purchase, you will receive access to download the Excel file.</p><p>Due to the digital nature of this product, returns, exchanges, or cancellations are not accepted once the file has been delivered. If you have any issue accessing or using the file, please contact us and we will be happy to help.</p>",
+            "content": "<p><em><strong>Each mug is made on demand after your order is placed.</strong></em></p><p><em><strong>Processing and shipping times may vary depending on your location.</strong></em></p><p><em><strong>Because this is a made-to-order product, returns or exchanges are only accepted if the item arrives damaged, defective, or incorrect. Please contact us with photos if there is any issue with your order.</strong></em></p>",
             "page": ""
           }
         },
@@ -79,7 +79,7 @@
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
-            "content": "<p>File format: Microsoft Excel workbook.</p><p>Included sheets:<br/>• Home<br/>• Instructions<br/>• Daily Sales<br/>• Expenses<br/>• Monthly Summary<br/>• KPI Dashboard<br/>• Expense Category Analysis<br/>• Supplier Analysis<br/>• Recommendations</p><p>Designed for restaurants, coffee shops, cafés, bakeries, food trucks, and small food businesses.</p>",
+            "content": "<p>11 oz mug: 3.79″ / 9.6 cm in height and 3.25″ / 8.3 cm in diameter.</p>",
             "page": ""
           }
         },
@@ -88,7 +88,7 @@
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
-            "content": "<p>Open the file using Microsoft Excel for the best experience.</p><p>Before editing, save a copy of the original file as a backup.</p><p>Enter your daily sales, expenses, suppliers, and business data in the input sheets. The dashboard and analysis sheets will update automatically based on your entries.</p>",
+            "content": "<p>This mug is microwave and dishwasher safe.</p><p>For longer-lasting print quality, gentle hand washing is recommended.</p>",
             "page": ""
           }
         },
