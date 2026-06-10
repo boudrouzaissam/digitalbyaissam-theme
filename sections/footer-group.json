@@ -17,14 +17,14 @@
         "footer-0": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "<strong>Catalog                                                          Contact                                                                     Search</strong>",
             "menu": "footer"
           }
         },
         "footer-1": {
           "type": "link_list",
           "settings": {
-            "heading": "Info",
+            "heading": "DigitalByAissam creates practical Excel dashboards, business templates, and economics-inspired products for students, entrepreneurs, coffee lovers, and small businesses.Our goal is to offer simple, useful, and creative tools that help people organize, analyze, and improve their everyday work.",
             "menu": "footer"
           }
         },
